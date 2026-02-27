@@ -13,8 +13,8 @@ assigning both to a security group.
 - Added both accounts (the member user and the guest user) to the **IT Department** group
 
 ## Evidence
- - ![User Created](screenshots/user-created.png)
- - ![Guest Invitation](screenshots/guest-invitation.png)
+ - ![User Created](screenshots/User-created.png)
+ - ![Guest Invitation](screenshots/Guest-invitation.png)
  - ![Guest Overview](screenshots/guest-overview.png)
- - ![Group Overview](screenshots/group-overview.png)
+ - ![Group Overview](screenshots/Group-Overview.png)
  
