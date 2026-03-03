@@ -44,19 +44,19 @@ Automating and standardising Azure deployments using Infrastructure as Code by:
 
 ## Evidence
  - ![disk1](screenshots/disk1.png)
- - ![Exported Template](screenshots/Exported_Template.png)
- - ![Edited Template](screenshots/Edited_parameter_disk2.png)
- - ![disk1](screenshots/edited_template_disk2.png)
- - ![Exported Template](screenshots/role-assigned.png)
- - ![Edited Template](screenshots/custom_role-assigned_and_non_actionable-permissions.png)
- - ![disk1](screenshots/management-group.png)
- - ![Exported Template](screenshots/role-assigned.png)
- - ![Edited Template](screenshots/custom_role-assigned_and_non_actionable-permissions.png)
- - ![disk1](screenshots/management-group.png)
- - ![Exported Template](screenshots/role-assigned.png)
- - ![Edited Template](screenshots/custom_role-assigned_and_non_actionable-permissions.png)
- - ![Exported Template](screenshots/role-assigned.png)
- - ![Edited Template](screenshots/custom_role-assigned_and_non_actionable-permissions.png)
+ - ![Exported Template](screenshots/Export_Template.png)
+ - ![Parameter Template](screenshots/Edited_parameter_disk2.png)
+ - ![Template Template](screenshots/edited_template_disk2.png)
+ - ![disk2](screenshots/disk2visuals.png)
+ - ![2 disks in Resource Group](screenshots/2disksResourceGroup.png)
+ - ![Template in Powershell](screenshots/powershell_template_editor.png)
+ - ![disk3](screenshots/disk3Succeeded.png)
+ - ![Template in bash](screenshots/template_in_bash.png)
+ - ![disk4](screenshots/disk4succeded.png)
+ - ![4 disks](screenshots/4disks.png)
+ - ![bicep Template](screenshots/disk_with_bicep.png)
+ - ![disk5](screenshots/5diskscreated.png)
+ - ![Disks in Resource Group](screenshots/Disks_in_resourceGroup.png)
 
 
 
