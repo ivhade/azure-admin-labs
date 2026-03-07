@@ -24,7 +24,7 @@ Implement network traffic management for a public web workload by:
  - ![Deployed Template of Several Resources](screenshots/Custom-Deployment-Several_Resources.png)
  - ![Deployed Template of Several Resources1](screenshots/Custom-Deployment-Several-Resources1.png)
  - ![Load Balancer](screenshots/Loab-Balancer.png)
- - ![Load Balancer on VM1](screenshots/Testing-LoadBalancer-VM1.png)
+ - ![Load Balancer on VM1](screenshots/Testing_LoadBalancer-VM.png)
  - ![Load Balancer on VM2](screenshots/Testing-LoadBalancer-VM1.png)
  - ![Default-Subnet](screenshots/Adding-Default-Subnet.png)
  - ![Application Gateway](screenshots/Application-Gateway-Frontend.png)
