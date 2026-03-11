@@ -32,6 +32,7 @@ Build practical virtual machine administration skills by:
 - ![Vmss](screenshots/vmss.png)
 - ![Vmss Instances](screenshots/vmssinstances.png)
 - ![Vmss scaling](screenshots/vmssscaling.png)
+- ![Vmss Scaling1](screenshots/vmssscaling1.png)
 - ![Resource Group](screenshots/rg1.png)
 - ![Resource Group1](screenshots/rg2.png)
 
