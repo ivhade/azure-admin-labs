@@ -22,14 +22,16 @@ Build practical virtual machine administration skills by:
 
 
 ## Evidence
-- ![](screenshots/virtual%20machines.png)
-- ![](screenshots/vm1.png)
-- ![](screenshots/vm2.png)
-- ![](screenshots/disk.png)
-- ![](screenshots/disksizeupdated.png)
-- ![](screenshots/vmss.png)
-- ![](screenshots/configuredvmss.png)
-- ![](screenshots/vmsscreated.png)
-- ![](screenshots/vmssinstances.png)
-- ![](screenshots/vmssscaling.png)
+- ![Virtual Machines](screenshots/virtual%20machines.png)
+- ![Virtual Machine1](screenshots/vm1.png)
+- ![Virtual Machine2](screenshots/vm2.png)
+- ![disk](screenshots/disk.png)
+- ![Disk updated](screenshots/disksizeupdated.png)
+- ![Vmss created](screenshots/vmsscreated.png)
+- ![Configured Vmss](screenshots/configuredvmss.png)
+- ![Vmss](screenshots/vmss.png)
+- ![Vmss Instances](screenshots/vmssinstances.png)
+- ![Vmss scaling](screenshots/vmssscaling.png)
+- ![Resource Group](screenshots/rg1.png)
+- ![Resource Group1](screenshots/rg2.png)
 
