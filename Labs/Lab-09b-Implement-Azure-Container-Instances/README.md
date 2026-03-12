@@ -21,11 +21,11 @@ Implement and deploy Azure Container Instance by:
 
 
 ## Evidence
-- ![ACI](screenshots/aci.png)
-- ![](screenshots/aci-data.png)
+- ![Azure Container Instance](screenshots/aci.png)
+- ![Azure Container data page](screenshots/aci-data.png)
 - ![](screenshots/activity-log.png)
-- ![](screenshots/ipaddress.png)
-- ![](screenshots/dns-verification.png)
-- ![](screenshots/log-port.png)
+- ![Assessing Container Instance value via IP](screenshots/ipaddress.png)
+- ![Assessing Container Instance via value FQDN](screenshots/dns-verification.png)
+- ![log activity of http port](screenshots/log-port.png)
 
 
