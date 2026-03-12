@@ -23,12 +23,12 @@ Build and validate Azure App Service skills by :
 - ![Web App Domain](screenshots/test-web-app.png)
 - ![Deployment Slots](screenshots/Deployment-slots.png)
 - ![Staging Slot Deployment](screenshots/staging-slot.png)
-- ![Staging Domain](screenshots/)
 - ![Swapping Slots](screenshots/swaping-slots.png)
 - ![Domain Test](screenshots/swap-test.png)
 - ![Test Swap](screenshots/test-web-app.png)
 - ![Test Swap2](screenshots/swapped-webapp-test.png)
 - ![Web App Scaling](screenshots/web-app-scaling.png)
 - ![Test Web APP](screenshots/test-setup.png)
+- ![Test Result](screenshots/Test-result.png)
 
 
