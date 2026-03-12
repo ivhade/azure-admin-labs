@@ -1,6 +1,6 @@
 # azure-admin-labs
 az-104 lab portfolio: identity, networking, compute, storage, monitoring, governance (scripts, screenshots, cleanup)
-# Lab 09a- Implement Azure Container Instances
+# Lab 09b- Implement Azure Container Instances
 
 
 ## Goal 
