@@ -15,7 +15,7 @@ Build and validate Azure App Service skills by :
 - provisioned a **Web App (App Service)**  and confirmed that it was working from the overview blade,
 - Deployed a sample application to the lab's Web App using the recommended approach,
 - Verified the deployment by browsing to the Web App's **default hostname** and confirmed the expected page rendered,
-- Reviewed key configuration areas to understand how changes affect the running of the app,
+- Reviewed key configuration areas to understand how changes affect the running of the app eg, swapping, scaling and running tests
 
 
 ## Evidence
